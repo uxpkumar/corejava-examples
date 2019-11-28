@@ -1,4 +1,6 @@
- abstract class Person1 {
+ 
+//Abstract class
+abstract class Person1 {
 	
 	public String name = "John";
 	public int age = 27;
